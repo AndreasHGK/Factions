@@ -1,0 +1,11 @@
+#    ,------.               ,--.  ,--.
+#    |  .---',--,--. ,---.,-'  '-.`--' ,---. ,--,--,  ,---.
+#    |  `--,' ,-.  || .--''-.  .-',--.| .-. ||      \(  .-'
+#    |  |`  \ '-'  |\ `--.  |  |  |  |' '-' '|  ||  |.-'  `)
+#    `--'    `--`--' `---'  `--'  `--' `---' `--''--'`----'
+
+# how much time should be between each autosave?
+autosave-timer: 300
+
+# how much power should a faction get when created?
+standard-power: 100
